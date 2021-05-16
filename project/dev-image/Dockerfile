@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 
 ENV GOLANG_VERSION 1.4rc1
 ENV GOPATH /var/cache/drone
